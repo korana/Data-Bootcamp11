@@ -5,4 +5,4 @@ My data science and analytics projects
 
 1. SQL Supermarket analysis
 2. Test
-3. Retest
+3. Retest See you again
